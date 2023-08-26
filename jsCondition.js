@@ -12,7 +12,7 @@ if(num2>num1)
 
 }
 
-//**************if else condition********************
+//**************if else condition*********************
 
 if (num1>num2)
 {
