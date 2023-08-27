@@ -10,7 +10,7 @@ function calculator(x,y)
 calculator(4,2)
 
 //program1 
-//Function Without Parameter and Without Return Type
+//Function Without Parameter and Without Return Type.
 function add()
 {
     console.log(10+10)
