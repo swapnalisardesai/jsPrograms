@@ -91,3 +91,4 @@ let mod=(s,t)=>{
 }
 u=mod(17,4)
 console.log(u)
+
