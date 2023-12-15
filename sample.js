@@ -22,3 +22,18 @@ while(b>=1)
     console.log(b)
     b--;
 }*/
+
+let sum=0
+for (let i=1;i<=10;i++)
+{
+    sum=sum+i
+}
+console.log(sum)
+
+//square
+let sqr
+for(let i=1;i<=5;i++)
+{
+    sqr=i*i
+    console.log(`square of ${i} is ${sqr}`)
+}

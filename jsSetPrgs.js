@@ -6,8 +6,12 @@ let Myset = new Set()
 //it can add values in set
 Myset.add("abcd")
 Myset.add(11)
+
 console.log(Myset)
 
-//2 delete()
+//2 has()
 console.log(Myset.has("abcd"))
 console.log(Myset)
+
+//3
+//Myset.values()

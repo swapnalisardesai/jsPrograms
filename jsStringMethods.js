@@ -87,7 +87,7 @@ console.log(animal.endsWith('nt'))
 
 //10 split()
 let Myname="swapnali-sardesai"
-let x=console.log(Myname.split("-"))
+let x=console.log(Myname.split("a"))
 
 //11 charcodeat()
 console.log(Myname.charCodeAt(1))

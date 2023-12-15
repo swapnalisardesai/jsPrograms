@@ -1,7 +1,7 @@
 let names = ["swapnali", "ovi", "vidhi"]
 //index of array always starts from zero
 let a = names.length
-console.log(a)//length gives number of elements in array
+console.log(a)//length gives number of elements in array=[p;l, ]
 // length-1 is always last index
 console.log(names[0])
 console.log(names[1])
@@ -131,6 +131,7 @@ console.log("**********************fill********************")
 //               0   1   2     3    4
 let fillArr = [100, 200, 300, 400, 500]
 let v = fillArr.fill(undefined, 2, 4)
+let m11=fillArr.fill("sss")
 console.log(v)
 
 //11 includes()
@@ -243,3 +244,6 @@ let s2 = findIndArr.findIndex(function (el, index, arr) {
     return el >8
 })
 console.log(s2)
+
+let e11=["b","a","m","c",10,"s",5]
+console.log(e11.sort())
